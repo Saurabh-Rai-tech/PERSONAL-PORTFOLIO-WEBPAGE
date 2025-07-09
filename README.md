@@ -34,4 +34,4 @@ This portfolio is fully responsive and works on desktops, tablets, and mobile de
 - Contact form section (can be connected to a backend service)
 - Built using only HTML, CSS, and JavaScript – no frameworks required
 - #OUTPUT
-- 
+- <img width="1885" height="782" alt="Image" src="https://github.com/user-attachments/assets/1e01969e-8ed1-4def-8799-7d3430236c48" />
